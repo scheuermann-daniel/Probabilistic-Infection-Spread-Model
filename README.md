@@ -140,4 +140,7 @@ This framework is applicable to:
 * Probability normalization is explicitly enforced to prevent numerical drift
 * The model structure is easily extensible to additional spatial plots or alternative movement rules
 
-```
+---
+
+## Future Work
+I would like to get a second pair of eyes to make sure the math checks out and this is truly a way to combine master equations.
